@@ -1,0 +1,3 @@
+[submodule "repotest"]
+	path = repotest
+	url = git@github.com:pauljeandel/repotest.git
